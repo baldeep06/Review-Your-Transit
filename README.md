@@ -3,4 +3,6 @@ A platform for the people of Waterloo region to review the service of Grand Rive
 
 I've always felt that people should be able to review the transit they ride just as they are able to review restaurants, movies, hotels and many other things. Public transporation is a great public service, however, people generally are not prepared for the hiccups that come along with it. As such, I've created a reviewing system for anonymous riders to review their chosen route, giving anecdotal suggestions to new riders embarking on their own journies.
 
+There's lot to be done to this project, for instance the frontend has some easter eggs. But that's the beauty of these projects. You can improve them forever.
+
 Ps. The Internet may be the most helpful place on the planet (how else would I debug, get passed that one small error and move on?)
