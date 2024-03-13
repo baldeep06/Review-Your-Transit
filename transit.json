@@ -1,0 +1,66 @@
+[
+  {
+    "busId": "301 Ion",
+    "title": "301 ION Waterloo Region LRT",
+    "frequency": "Every 10 minutes all day",
+    "trailerLink": "https://youtu.be/tL6z--Qa7Ag?feature=shared",
+    "facts": [
+      "Light-rail",
+      "Frequent",
+      "Fun"
+    ],
+    "poster": "https://i.postimg.cc/zBcLSFgs/uwi-1.jpg",
+    "backdrops": [
+      "https://i.postimg.cc/CxSjKJH7/ion-launch.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "busId": "201I",
+    "title": "201 iXpress Fischer-Hallman r",
+    "frequency": "Every 30 minutes, 15 minute peak",
+    "trailerLink": "https://youtu.be/Ysg4wy2jtS0?feature=shared",
+    "facts": [
+      "Reliable",
+      "Quick",
+      "Express"
+    ],
+    "poster": "https://i.postimg.cc/nrVJzyrZ/26625830066-988c1f4858-b.jpg",
+    "backdrops": [
+      "https://iili.io/JWFH2bp.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "busId": "30A",
+    "title": "GO Bus Route 30A",
+    "frequency": "Up to twice hourly",
+    "trailerLink": "https://youtu.be/AQGlmLdrDpc?feature=shared",
+    "facts": [
+      "Long-distance",
+      "Speedy",
+      "Popular"
+    ],
+    "poster": "https://iili.io/JWFKFIf.jpg",
+    "backdrops": [
+      "https://iili.io/JWFqX0N.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "busId": "KI",
+    "title": "Kitchener Line",
+    "frequency": "Peak-Hours Only",
+    "trailerLink": "https://youtu.be/01NVzoPvmpg?feature=shared",
+    "facts": [
+      "Safe",
+      "Fast",
+      "Comfortable"
+    ],
+    "poster": "https://iili.io/JWFI03x.jpg",
+    "backdrops": [
+      "https://iili.io/JWFRf94.jpg"
+    ],
+    "reviewIds": []
+  }
+]
